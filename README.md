@@ -36,6 +36,6 @@ Na aplicação recebe números e Strings misturados, separa os dados automaticam
  projeto
  ┣ 📄 index.html
  ┣ 📄 style.css
- ┣ 📄 pscripts.js
+ ┣ 📄 scripts.js
  ┗ 📄 README.md
 ```
